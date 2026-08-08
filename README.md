@@ -8,25 +8,24 @@ This project simulates such an industrial system. It features a DC motor whose s
 
 
 
-
-https://github.com/user-attachments/assets/5f5b82c7-a044-4c51-b4ad-900473d25eaf
-
+https://github.com/user-attachments/assets/a8addf4c-d7b7-4311-badd-f886452fec05
 
 
 
-
-https://github.com/user-attachments/assets/dbc94b96-eed0-4aec-8925-743ade2d7893
-
-
-
-https://github.com/user-attachments/assets/247dd3a2-77fe-4395-8e23-eddeff943a8d
+https://github.com/user-attachments/assets/66a85a06-7f53-4455-8191-96629ea538ee
 
 
 
+https://github.com/user-attachments/assets/796cb14f-9050-4d26-aba3-e666761cfc57
 
 
 
-https://github.com/user-attachments/assets/80d96af6-63b3-4526-92bf-ef8bb5c6926a
+https://github.com/user-attachments/assets/4ba6d6ad-3a9d-4352-805a-247be4e6fc13
+
+
+
+
+
 
 
 
